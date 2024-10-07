@@ -1,3 +1,6 @@
 referencias:
 Chac, S. and Straub, B. Pro Git. Apress.
+
+cambio lineas para forzar un conflicoto entre dos ramas del mismo repo ya que tendre modificado el moimso archio en ambaasss
+
 Loeliger, J. and McCullough, M. Version control with Git. O’Reilly. 
